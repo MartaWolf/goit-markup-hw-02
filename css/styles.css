@@ -144,10 +144,10 @@ body {
   background-color: #f4f4fd;
 }
 
-.nav-list,
-.team-list,
-.advantages-list,
-.portfolio-list {
+.nav-list li,
+.team-list li,
+.advantages-list li,
+.portfolio-list li {
   background-color: #ffffff;
 }
 
