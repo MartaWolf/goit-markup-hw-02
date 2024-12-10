@@ -12,12 +12,11 @@ body {
   background-color: #f8f9fa;
 }
 
-.logo-web,
-.footer-logo-web {
+.logo-web {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -27,10 +26,19 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
+}
+
+.footer-logo-web {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 
 .footer-logo-studio {
@@ -69,6 +77,10 @@ body {
   color: #404bbf;
 }
 
+.contact-info {
+  font-style: normal;
+}
+
 .hero {
   background: #2e2f42;
 }
@@ -78,6 +90,7 @@ body {
   font-size: 56px;
   line-height: 1.07143;
   letter-spacing: 0.02em;
+  line-height: 1.07;
   text-align: center;
   color: #fff;
 }
@@ -88,6 +101,7 @@ body {
 }
 
 .hero-button {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -106,6 +120,14 @@ body {
   line-height: 1.11111;
   letter-spacing: 0.02em;
   text-align: center;
+  color: #2e2f42;
+}
+
+.advantages-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
