@@ -145,7 +145,10 @@ body {
   background-color: #f4f4fd;
 }
 
-.team-list {
+.nav-list,
+.team-list,
+.advantages-list,
+.portfolio-list {
   background-color: #ffffff;
 }
 
@@ -165,10 +168,6 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-}
-
-.portfolio-list {
-  background-color: #ffffff;
 }
 
 .portfolio-title {
