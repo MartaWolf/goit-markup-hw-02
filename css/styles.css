@@ -12,7 +12,8 @@ body {
   background-color: #f8f9fa;
 }
 
-.logo {
+.logo-web,
+.footer-logo-web {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -20,6 +21,26 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+}
+
+.logo-studio {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+
+.footer-logo-studio {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
 }
 
 .nav-link {
@@ -133,6 +154,8 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+/* Footer */
 
 .footer {
   background: #2e2f42;
